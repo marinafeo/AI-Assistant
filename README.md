@@ -1,11 +1,15 @@
 ```markdown
 # Проект: "ИИ-ассистент для архитектурного бюро"
+[@ABArbat_bot](https://t.me/ABArbat_bot)
 
 ## Описание проекта
 
 Проект направлен на создание интеллектуального помощника (ИИ-ассистента) для автоматизации рутинных задач и улучшения взаимодействия с клиентами в архитектурном бюро. ИИ-ассистент способен вести осмысленный диалог, отвечать на вопросы по базе знаний, а также управлять расписанием встреч через интеграцию с Google Календарь.
 
----
+![Иллюстрация к проекту 1](https://github.com/marinafeo/AI-Assistant/blob/main/Screenshot_1.jpg)
+![Иллюстрация к проекту 2](https://github.com/marinafeo/AI-Assistant/blob/main/Screenshot_2.jpg)
+![Иллюстрация к проекту 3](https://github.com/marinafeo/AI-Assistant/blob/main/Screenshot_3.jpg)
+![Иллюстрация к проекту 4](https://github.com/marinafeo/AI-Assistant/blob/main/Screenshot_4.jpg)
 
 ## Функционал
 
